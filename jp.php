@@ -1,3 +1,6 @@
+<?php
+//StripeのError-codesの翻訳
+//元サイト: https://stripe.com/docs/error-codes
 $messsages = [
     'account_already_exists' => 'アカウントがすでに存在します',
     'account_country_invalid_address' => 'アカウントの国籍とビジネスを行う国籍が異なります',
