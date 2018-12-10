@@ -1,0 +1,2 @@
+以下のGistの翻訳をRailsのconfig/localesにポンと置けるようにYAMLにしたものです
+https://gist.github.com/shalman/c1d4b4771ed5ff5d3f4c6f3dcbacfa9a
